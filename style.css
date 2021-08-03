@@ -1,0 +1,24 @@
+body {
+  background: #dad7cd;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  width: 80vh;
+  margin: 10pt 20vw;
+}
+h1{
+  color: #800e13;
+  font-weight: 900;
+}
+h2{
+  font-weight: 900;
+  color: #344e41;
+}
+
+p{
+  color:#588157;
+  font-family: 'Noto Sans TC';
+}
+
+.footer{
+    color: grey;
+}
